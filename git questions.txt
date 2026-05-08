@@ -1,0 +1,253 @@
+1. What is Git?
+
+Select the best answer
+
+a) Text Editor
+b) Compiler
+c) Version Control System
+d) Operating System
+
+Answer
+
+2. Git is the same as GitHub.
+
+Choose one option
+
+a) False
+b) True
+
+Answer
+
+3. What is the command to get the installed version of Git?
+
+Choose one option
+
+a) git –version
+b) git help version
+c) getGitVersion
+d) gitVersion
+
+Answer
+
+4. Which command initializes a new Git repository?
+
+Choose one option
+
+a) git new
+b) git create
+c) git start
+d) git init
+
+Answer
+
+5. Which option should you use to set the default user name for every repository on your computer?
+
+Choose one option
+
+a) –global
+b) –A
+c) No need to specify, that is the default.
+d) –all
+
+Answer
+
+6. What is the command to set the user email for the current repository?
+
+a) git config email
+b) git email.user
+c) git config user.email
+
+Answer
+
+7. How can you view the commit history in Git?
+
+a) git logs
+b) git history
+c) git commits
+d) git log
+
+Answer
+
+8. What is the command to add all files and changes of the current folder to the staging environment of the Git repository?
+
+Choose one option
+
+a) git add –all
+b) git add –files
+c) git add
+
+Answer
+
+9. Which command adds changes to the staging area in Git?
+
+Choose one option
+
+a) git add
+b) git save
+c) git upload
+d) git stage
+
+Answer
+
+10. Which command shows the status of changes in the repository?
+
+Choose one option
+
+a) git status
+b) git show
+c) git view
+d) git display
+
+Answer
+
+11. How to ignore certain files in Git?
+
+Choose one option
+
+a) Ignored files are tracked in a special file named as .gitignore named which is checked in at the root of the repository.
+b) Create a file .ignore and track the ignored file in it
+c) You can not ignore files in GIT
+
+Answer
+
+12.  Git automatically adds new files to the repository and starts tracking the changes
+
+Choose one option
+
+a) False
+b) True
+
+Answer
+
+13. How do you commit the staged changes?
+
+Choose one option
+
+a) git save
+b) git update
+c) git commit
+d) git store
+
+Answer
+
+14. How to unstage the staged changes in Git?
+
+Choose one option
+
+a) git remove
+b) git rm
+c) git add
+d) git commit
+
+Answer
+
+15. What is the command to commit with the message “New attribute”:
+
+Choose one option
+
+a) git commit -m “New attribute”
+b) git commit -mess “New attribute”
+c) git commit -log “New attribute”
+d) git commit message “New attribute”
+
+Answer
+
+16. What does the .git directory store?
+
+Choose one option
+
+a) Configuration files
+b) Source code
+c) Project documentation
+d) Repository metadata and version history
+
+Answer
+
+17. In Git, a branch is:
+
+Choose one option
+
+a) A separate version of the main repository.
+b) A small wooden stick you can use to type commands.
+c) Nothing, it is a nonsense word.
+d) A secret part of Git config.
+
+Answer
+
+18. What will the following command print to the Terminal?
+
+1
+git remote -v
+Choose one option
+
+a) The current git version you’re running
+b) A list of remote repositories you are connected to
+c) The last 5 git versions you’ve installed
+d) An inline editor for modifying remote repositories
+
+Answer
+
+ 19. Which Command is used to show limited number of commits?
+
+a) git log -f
+b) git log -n
+c) git config -n
+d) git log status
+
+Answer
+
+20. Git commit history is automatically deleted:
+
+Choose one option
+
+a) Every 2 weeks.
+b) Every month.
+c) Every year.
+d) Commit history is never automatically deleted.
+
+Answer
+
+21. Which command creates a new branch in Git?
+
+a) git new branch
+b) git branch-new
+c) git branch
+d) git create-branch
+
+Answer
+
+22. What is the command to move to the branch named “new-email”?
+
+a) git checkout new-email
+b) git branch new-email
+c) git checkout branch new-email
+d) git branch -move new-email
+
+Answer
+
+23. What is the option, when moving to a branch, to create the branch it if it does not exist?
+
+a) -b
+b) -new
+c) -newbranch
+d) -all
+
+Answer
+
+24. How do you switch to a different branch in Git?
+
+a) git switch
+b) git move
+c) git jump
+d) git hop
+
+Answer
+
+25. What is the command to add the remote repository “https://abc.xyz/d/e.git&#8221; as “origin”?
+
+a) git remote add origin https://abc.xyz/d/e.git
+b) git add origin https://abc.xyz/d/e.git
+c) git origin=https://abc.xyz/d/e.git
+d) git remote https://abc.xyz/d/e.git
+
+Answer
